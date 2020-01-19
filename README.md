@@ -5,7 +5,7 @@ Then you can see the list of created developers.
 
 ## Screenshots
 > Home Screen  
-![Imgur](https://i.imgur.com/4NeEmwO.png?1)
+![Imgur](https://i.imgur.com/oxikRVp.png?1)  
 
 ## Step by step
 - Clone the repo
