@@ -4,7 +4,8 @@ This is a React web application based on the course "Semana Omnistack 10", in th
 Then you can see the list of created developers.  
 
 ## Screenshots
-![Home Screen](https://imgur.com/4NeEmwO)
+> Home Screen  
+![Imgur](https://i.imgur.com/4NeEmwO.png?1)
 
 ## Step by step
 - Clone the repo
